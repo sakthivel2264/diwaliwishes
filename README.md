@@ -1,2 +1,2 @@
 # PreviewLink
-{https://sakthivel2264.github.io/diwaliwishes/}
+(https://sakthivel2264.github.io/diwaliwishes/)
